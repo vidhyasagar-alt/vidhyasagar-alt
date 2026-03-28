@@ -97,8 +97,8 @@ I'm a final year B.E. ECE student graduating in **April 2026**, actively looking
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/vidhya-sagar-4bba5339b?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)]([https://github.com](https://github.com/vidhyasagar-alt))
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vidhyasagarboomi@gmail.com)
 
 ---
